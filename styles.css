@@ -1,0 +1,42 @@
+
+
+img{
+    width: 500px;
+    height: 300px;
+}
+h1{
+    object-position: center;
+}
+#FirstDiv{
+    width: auto;
+    text-align: center;
+    background-color: white;
+}
+#SecondDiv{
+    
+    background-color: lightgrey;
+    height: 650px;
+    padding-left:500px ;
+    padding-top: 50px;
+    padding-right: 500px;
+    
+}
+#child{
+    background-color: white; 
+    width: auto;
+    text-align: center;
+    
+}
+p{
+    text-align: left;
+}
+#gray{
+    color: gray;
+}
+#bold{
+    font-weight: bold;
+    font-size: large;
+}
+#LastOne{
+    border-width: 1px 0px 0px 0px;
+}
